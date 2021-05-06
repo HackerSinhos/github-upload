@@ -1,2 +1,1 @@
-hey!
-good
+hey!good
